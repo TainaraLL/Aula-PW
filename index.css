@@ -1,0 +1,21 @@
+h1 {
+    color:rgb(131, 50, 230);
+    background-color: rgb(77, 28, 137);
+}
+
+input {
+    border-radius: 4px;
+}
+
+.senha {
+    margin: 10px;
+    margin-left: 20px;
+    background: #98cffa;
+    color: #660d0d
+}
+
+/* referenciar o  */
+#nome {
+    background: #fff !important; /*coisa de ultimo caso */
+    color:blue;
+}
